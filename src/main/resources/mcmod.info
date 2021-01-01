@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xpparty-autoaccept",
+  "name": "xpparty.club party invite auto accept",
+  "description": "Automatically accepts party invites from Find, aysuh, Tiliba and Geckor. For use in XP Parties.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["thomas.gg"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
